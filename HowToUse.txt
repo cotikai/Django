@@ -27,5 +27,7 @@ How to build and run
 
 
 [4] access to
+
          localhost:8000
+    
     if you can see "The install worked successfully! Congratulations!", you succeeded to running
